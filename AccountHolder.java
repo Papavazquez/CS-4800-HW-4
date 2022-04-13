@@ -35,6 +35,8 @@ class acccountHolder
   
   class accountHolder extends individualHolder{
   }
+  class accountHolder extends corporateHolder{
+  }
   
  
 }
