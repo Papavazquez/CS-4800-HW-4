@@ -31,4 +31,9 @@ class acccountHolder
   {
     return address;
   }
+  
+  class accountHolder extends individualHolder{
+  }
+  
+ 
 }
